@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RespiLSB
 - 👀 I’m interested in coding, ethical hacking and development
-- 🌱 I’m currently learning Digital Forensics & Cyber Security
+- 🌱 Tier 1 SOC Analyst
 - 💞️ I’m looking to collaborate on anything of interest!
 - 📫 You may Reach me at my e-mail, rybakas.dovydas@outlook.com
 
